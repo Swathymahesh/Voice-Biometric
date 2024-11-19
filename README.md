@@ -28,7 +28,7 @@ This project, **Voice Biometrics System**, is designed to analyze and authentica
    ```bash
    pip install -r requirements.txt
 ## Usage: Step-by-Step Instructions
-  # Step 1: Clone the repository to your local machine
+  ## Step 1: Clone the repository to your local machine
 git clone https://github.com/your-username/VoiceBiometrics-main.git
 
 ##Step 2: Navigate to the project directory
