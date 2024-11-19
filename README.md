@@ -31,21 +31,21 @@ This project, **Voice Biometrics System**, is designed to analyze and authentica
   # Step 1: Clone the repository to your local machine
 git clone https://github.com/your-username/VoiceBiometrics-main.git
 
-# Step 2: Navigate to the project directory
+##Step 2: Navigate to the project directory
 cd VoiceBiometrics-main
 
-# Step 3: Install the required dependencies
+##Step 3: Install the required dependencies
 pip install -r requirements.txt
 
-# Step 4: Prepare your dataset
-# Place audio files in the `data/` directory or as specified in your project.
+##Step 4: Prepare your dataset
+Place audio files in the `data/` directory or as specified in your project.
 
-# Step 5: Train the model
+##Step 5: Train the model
 python train.py
 
-# Step 6: Authenticate a user using an audio file
+## Step 6: Authenticate a user using an audio file
 python authenticate.py --input sample_audio.wav
 
-# Optional: Run the demo script
+## Optional: Run the demo script
 python demo.py
 
