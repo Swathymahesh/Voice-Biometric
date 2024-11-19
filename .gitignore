@@ -1,0 +1,11 @@
+# Ignoring the Configuration files.
+config.py 
+
+# Ignoring all the wav files.  
+"*.wav" 
+*.wav 
+
+# Ignore the User folders
+Users
+
+
